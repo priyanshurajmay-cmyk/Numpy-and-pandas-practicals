@@ -16,3 +16,10 @@ output:
 #Datatype of Series
 s1.dtype
 ```
+<img width="102" height="55" alt="image" src="https://github.com/user-attachments/assets/8e132dd4-e9df-4b28-97b9-55db140687fd" />
+
+The code will give error , since it should be ```s.size```
+```
+# number of bytes allocated to each item
+s1.itemsize
+```
